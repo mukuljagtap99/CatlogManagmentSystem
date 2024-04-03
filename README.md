@@ -1,4 +1,4 @@
-# CatlogManagmentSystem
+
 # CatlogManagementSystem
 
 -> This Spring Boot application is designed to Catlog Management System. It is built using Spring Boot "3.2.3".
